@@ -2,6 +2,8 @@
 
 A simple Todo list application built with Flask and SQLite.
 
+This project was created as a demonstration of a basic Flask application.
+
 ## Features
 
 - Add new tasks
